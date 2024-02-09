@@ -1,0 +1,14 @@
+/Users/olegmakeienko/Documents/DOTNETprojects/ConsoleAppListItems/ConsoleAppListItems/bin/Debug/net8.0/ConsoleAppListItems
+/Users/olegmakeienko/Documents/DOTNETprojects/ConsoleAppListItems/ConsoleAppListItems/bin/Debug/net8.0/ConsoleAppListItems.deps.json
+/Users/olegmakeienko/Documents/DOTNETprojects/ConsoleAppListItems/ConsoleAppListItems/bin/Debug/net8.0/ConsoleAppListItems.runtimeconfig.json
+/Users/olegmakeienko/Documents/DOTNETprojects/ConsoleAppListItems/ConsoleAppListItems/bin/Debug/net8.0/ConsoleAppListItems.dll
+/Users/olegmakeienko/Documents/DOTNETprojects/ConsoleAppListItems/ConsoleAppListItems/bin/Debug/net8.0/ConsoleAppListItems.pdb
+/Users/olegmakeienko/Documents/DOTNETprojects/ConsoleAppListItems/ConsoleAppListItems/obj/Debug/net8.0/ConsoleAppListItems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegmakeienko/Documents/DOTNETprojects/ConsoleAppListItems/ConsoleAppListItems/obj/Debug/net8.0/ConsoleAppListItems.AssemblyInfoInputs.cache
+/Users/olegmakeienko/Documents/DOTNETprojects/ConsoleAppListItems/ConsoleAppListItems/obj/Debug/net8.0/ConsoleAppListItems.AssemblyInfo.cs
+/Users/olegmakeienko/Documents/DOTNETprojects/ConsoleAppListItems/ConsoleAppListItems/obj/Debug/net8.0/ConsoleAppListItems.csproj.CoreCompileInputs.cache
+/Users/olegmakeienko/Documents/DOTNETprojects/ConsoleAppListItems/ConsoleAppListItems/obj/Debug/net8.0/ConsoleAppListItems.dll
+/Users/olegmakeienko/Documents/DOTNETprojects/ConsoleAppListItems/ConsoleAppListItems/obj/Debug/net8.0/refint/ConsoleAppListItems.dll
+/Users/olegmakeienko/Documents/DOTNETprojects/ConsoleAppListItems/ConsoleAppListItems/obj/Debug/net8.0/ConsoleAppListItems.pdb
+/Users/olegmakeienko/Documents/DOTNETprojects/ConsoleAppListItems/ConsoleAppListItems/obj/Debug/net8.0/ConsoleAppListItems.genruntimeconfig.cache
+/Users/olegmakeienko/Documents/DOTNETprojects/ConsoleAppListItems/ConsoleAppListItems/obj/Debug/net8.0/ref/ConsoleAppListItems.dll
