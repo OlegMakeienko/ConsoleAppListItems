@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T9wbiyX8so39Ym32PXKpPFC3nhiZfE19XWA2GD9O2kG3akNfw2iGYrhkQq2vnjXHcWfTrS80hE/nlu1fqWk7Pw==",
+  "dgSpecHash": "7SSDwU1m0QCmvcvMU/h4PpvrQsOp51M6FnoovlQZ3eVlEPcHUB+fFXEy/gCHkzZz3+g0gHo7kMldCImvlAXy7w==",
   "success": true,
-  "projectFilePath": "/Users/olegmakeienko/Documents/DOTNETprojects/ConsoleAppListItems/ConsoleAppListItems/ConsoleAppListItems.csproj",
+  "projectFilePath": "/Users/olegmakeienko/RiderProjects/ConsoleAppListItems/ConsoleAppListItems/ConsoleAppListItems.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
